@@ -1,0 +1,15 @@
+E:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\coihunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\bin\Debug\coinhunters_cc-vote-bot-ui.exe.config
+E:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\coihunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\bin\Debug\coinhunters_cc-vote-bot-ui.exe
+E:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\coihunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\bin\Debug\coinhunters_cc-vote-bot-ui.pdb
+E:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\coihunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\obj\Debug\coinhunters_cc-vote-bot-ui.csproj.AssemblyReference.cache
+E:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\coihunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\obj\Debug\coinhunters_cc-vote-bot-ui.csproj.SuggestedBindingRedirects.cache
+E:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\coihunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\obj\Debug\coinhunters_cc_vote_bot_ui.Form1.resources
+E:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\coihunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\obj\Debug\coinhunters_cc_vote_bot_ui.Properties.Resources.resources
+E:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\coihunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\obj\Debug\coinhunters_cc-vote-bot-ui.csproj.GenerateResource.cache
+E:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\coihunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\obj\Debug\coinhunters_cc-vote-bot-ui.csproj.CoreCompileInputs.cache
+E:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\coihunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\obj\Debug\coinhunters_cc-vote-bot-ui.exe
+E:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\coihunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\obj\Debug\coinhunters_cc-vote-bot-ui.pdb
+E:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\coihunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\bin\Debug\Newtonsoft.Json.dll
+E:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\coihunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\bin\Debug\Newtonsoft.Json.xml
+E:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\coihunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\obj\Debug\coinhunters_cc-vote-bot-ui.csproj.CopyComplete
+E:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\coihunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\coinhunters_cc-vote-bot-ui\obj\Debug\coinhunters_cc_vote_bot_ui.Form2.resources

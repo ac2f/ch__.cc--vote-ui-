@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "045b50fe-3d7f-4ec8-8f33-603159e389a7": {
+      "ProjectGuid": "045b50fe-3d7f-4ec8-8f33-603159e389a7",
+      "DisplayName": "coinhunters_cc-vote-bot-ui",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
